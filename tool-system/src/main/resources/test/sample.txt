@@ -1,0 +1,8 @@
+This is a sample text file for testing the file read tool.
+It contains multiple lines of text.
+You can use this file to verify that the FileReadTools can correctly read file content from the classpath.
+
+Test data:
+- Name: AgentScope POC Test
+- Date: 2026-05-21
+- Purpose: Verify tool system functionality
